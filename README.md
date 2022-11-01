@@ -1,5 +1,5 @@
 # CRM Clone
-A Clone of the Monday CRM System for study purposes
+A Clone of the Monday CRM System
 
 
 <h1>Screenshots</h1>
